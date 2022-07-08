@@ -9,6 +9,7 @@ import AddUserScreen from '../components/screens/users/AddUserScreen';
 import UserDetails from '../components/screens/users/UserDetails';
 import EditUser from '../components/screens/users/EditUser';
 import FetchData from '../components/screens/users/FetchData';
+import PostOfficeDet from '../components/screens/users/PostOfficeDet';
 
 
 const Stack= createNativeStackNavigator();
@@ -34,6 +35,8 @@ const RootStack =()=>{
                 <Stack.Screen name='UserDet' component={UserDetails}/>
                 <Stack.Screen name='UserEdit' component={EditUser}/>
                 <Stack.Screen name='FetchData' component={FetchData}/>
+                <Stack.Screen name='PostDet' component={PostOfficeDet}/>
+                
             </Stack.Navigator>
         </NavigationContainer>
     );
