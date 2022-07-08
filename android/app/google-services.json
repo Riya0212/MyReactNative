@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72527421640",
+    "project_id": "react-crud-c74e0",
+    "storage_bucket": "react-crud-c74e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72527421640:android:154c8bd99ff4426c1ec5fd",
+        "android_client_info": {
+          "package_name": "com.loginproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72527421640-pgc49s5r0rcel6sc6g7gbnfofmv3afn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loginproject",
+            "certificate_hash": "ef0b2e09299ab1519c5beeec7a001bf3620dd9ae"
+          }
+        },
+        {
+          "client_id": "72527421640-do40a6iknad8uptdr3d1j6f7ethkb16d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAv4uy1E0asIelmQxFWFUm8CL-_Vo58yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72527421640-do40a6iknad8uptdr3d1j6f7ethkb16d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
